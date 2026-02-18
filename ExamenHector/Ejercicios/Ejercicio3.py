@@ -17,4 +17,4 @@ calcularProcedimiento(distancia)
 def ejercicio_3(distancia):
     distancia = leerDatos()
     calcularProcedimiento(distancia)
-    
+     
